@@ -1,0 +1,34 @@
+intent,label,text
+Greeting,0,Hello
+Greeting,0,Hi there!
+Greeting,0,Hey!
+Farewell,1,Goodbye
+Farewell,1,See you later
+Farewell,1,Bye!
+Positive Confirmation,2,Yes that is correct
+Positive Confirmation,2,Absolutely
+Positive Confirmation,2,Sure that works
+Negative Confirmation,3,No that is not it
+Negative Confirmation,3,I don't think so
+Negative Confirmation,3,Not really
+Thank you,4,Thanks
+Thank you,4,Thank you
+Thank you,4,Thx
+Book Recommendation,5,I feel like reading 
+Book Recommendation,5,Help me find a book
+Book Recommendation,5,I want to read something new
+Request another book,6,I want another book
+Request another book,6,Give me another recommendation
+Request another book,6,What else do you have?
+Request book rating,7,Is this a high rating book
+Request book rating,7,Is this a best seller?
+Request book rating,7,What is the rating for this book?
+Request book pages,8,How long is this book?
+Request book pages,8,How many pages in this book?
+Request book pages,8,Is it long?
+Request book description,9,Can you tell me more about it?
+Request book description,9,What is this book about?
+Request book description,9,I need a short description
+Request book link on Goodreads,10,I want the book link
+Request book link on Goodreads,10,Link
+Request book link on Goodreads,10,URL please
